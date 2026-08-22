@@ -3,25 +3,23 @@ class Solution {
         int low = 0;
         int high = 0;
 
-        for(int num : nums) {
+        for(int num : nums){
             low = Math.max(low, num);
             high += num;
         }
 
-        while(low < high){
-            int mid = low + (high - low) / 2;
-
+        while(low < high) {
+            int mid = low + (high - low)/2;
             int subArray = 1;
             int currSum = 0;
 
-            for(int num : nums) {
+            for(int num : nums){
                 if(currSum + num > mid){
                     subArray++;
                     currSum = 0;
                 }
                 currSum += num;
             }
-
             if(subArray <= k){
                 high = mid;
             } else {
