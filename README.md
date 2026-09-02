@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/harsh910-developer/Leetcode/tree/master/0509-fibonacci-number) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harsh910-developer/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harsh910-developer/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/harsh910-developer/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harsh910-developer/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harsh910-developer/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh910-developer/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
