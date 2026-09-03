@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harsh910-developer/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/harsh910-developer/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/harsh910-developer/Leetcode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
 | [3110-score-of-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harsh910-developer/Leetcode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/harsh910-developer/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/harsh910-developer/Leetcode/tree/master/0342-power-of-four) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/harsh910-developer/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/harsh910-developer/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/harsh910-developer/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/harsh910-developer/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harsh910-developer/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harsh910-developer/Leetcode/tree/master/0342-power-of-four) |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harsh910-developer/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/harsh910-developer/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
