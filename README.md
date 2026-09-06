@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harsh910-developer/Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/harsh910-developer/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/harsh910-developer/Leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/harsh910-developer/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harsh910-developer/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harsh910-developer/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/harsh910-developer/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/harsh910-developer/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
