@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/harsh910-developer/Leetcode/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/harsh910-developer/Leetcode/tree/master/3731-find-missing-elements) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/harsh910-developer/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harsh910-developer/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
