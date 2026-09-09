@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harsh910-developer/Leetcode/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0409-longest-palindrome) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/harsh910-developer/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/harsh910-developer/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/harsh910-developer/Leetcode/tree/master/0018-4sum) |
+| [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harsh910-developer/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/harsh910-developer/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
