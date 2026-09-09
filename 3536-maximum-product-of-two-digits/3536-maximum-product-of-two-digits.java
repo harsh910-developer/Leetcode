@@ -1,7 +1,5 @@
 class Solution {
     public int maxProduct(int n) {
-        List<Integer> result = new ArrayList<>();
-        
         int one = 0;
         int two = 0;
         while(n!=0){
