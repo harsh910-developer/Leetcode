@@ -1,28 +1,26 @@
 class Solution {
-    public int totalNumbers(int[] digits) {
-        HashSet<Integer> set = new HashSet<>();
-
-        for(int i=0; i<digits.length; i++){
-            if(digits[i] == 0) continue;
-            for(int j=0; j<digits.length; j++){
-                if(j == i) continue;
-                for(int k=0; k<digits.length; k++){
-                    if(i == k || j == k) continue;
-                    //if(digits[i] == 0) continue;
-                    if(digits[k] % 2 != 0) continue;
-
-                    int number = digits[i]*100 + digits[j]*10 + digits[k];
-                    set.add(number);
-                }
+    HashSet<Integer> set = new HashSet<>();
+    public void permute(int[] nums, boolean[] used, int num, int length){
+        if(length == 3){
+            if(num % 2 == 0){
+                set.add(num);
             }
+            return;
         }
-        int[] result = new int[set.size()];
-        int i = 0;
-        for(int num : set){
-            result[i++] = num;
-        }
-        Arrays.sort(result);
 
-        return result.length;
+        for(int i=0; i<nums.length; i++){
+            if(used[i]) continue;
+            if(length == 0 && nums[i] == 0) continue;
+            used[i] = true;
+
+            permute(nums, used, num*10 + nums[i], length+1);
+
+            used[i] = false;
+        }
+    }
+    public int totalNumbers(int[] digits) {
+        boolean[] used = new boolean[digits.length];
+        permute(digits, used, 0, 0);
+        return set.size();
     }
 }
