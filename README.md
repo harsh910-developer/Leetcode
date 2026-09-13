@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harsh910-developer/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harsh910-developer/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh910-developer/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
