@@ -247,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/harsh910-developer/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/harsh910-developer/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/harsh910-developer/Leetcode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/harsh910-developer/Leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
