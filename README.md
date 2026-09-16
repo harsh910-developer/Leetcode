@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harsh910-developer/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harsh910-developer/Leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/harsh910-developer/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/harsh910-developer/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsh910-developer/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
