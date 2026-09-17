@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/harsh910-developer/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/harsh910-developer/Leetcode/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harsh910-developer/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsh910-developer/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
