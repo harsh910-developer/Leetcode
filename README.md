@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/harsh910-developer/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/harsh910-developer/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/harsh910-developer/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/harsh910-developer/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harsh910-developer/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/harsh910-developer/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harsh910-developer/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
 | [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh910-developer/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
@@ -344,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
