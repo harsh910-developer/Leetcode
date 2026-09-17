@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harsh910-developer/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harsh910-developer/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/harsh910-developer/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harsh910-developer/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/harsh910-developer/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/harsh910-developer/Leetcode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/harsh910-developer/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -322,4 +325,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harsh910-developer/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
