@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harsh910-developer/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harsh910-developer/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/harsh910-developer/Leetcode/tree/master/3731-find-missing-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harsh910-developer/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harsh910-developer/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsh910-developer/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/harsh910-developer/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harsh910-developer/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0409-longest-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
