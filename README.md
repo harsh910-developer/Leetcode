@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harsh910-developer/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
 | [0812-largest-triangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harsh910-developer/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harsh910-developer/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/harsh910-developer/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harsh910-developer/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsh910-developer/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Longest Increasing Subsequence
@@ -379,4 +381,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/harsh910-developer/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
