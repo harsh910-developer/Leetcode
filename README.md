@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harsh910-developer/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harsh910-developer/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsh910-developer/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
 | [2485-find-the-pivot-integer](https://github.com/harsh910-developer/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/harsh910-developer/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harsh910-developer/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
