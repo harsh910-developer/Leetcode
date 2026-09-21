@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/harsh910-developer/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harsh910-developer/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/harsh910-developer/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harsh910-developer/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harsh910-developer/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/harsh910-developer/Leetcode/tree/master/0070-climbing-stairs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harsh910-developer/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/harsh910-developer/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harsh910-developer/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/harsh910-developer/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/harsh910-developer/Leetcode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/harsh910-developer/Leetcode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
