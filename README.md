@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/harsh910-developer/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsh910-developer/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harsh910-developer/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/harsh910-developer/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harsh910-developer/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/harsh910-developer/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harsh910-developer/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harsh910-developer/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harsh910-developer/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harsh910-developer/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsh910-developer/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harsh910-developer/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harsh910-developer/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsh910-developer/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/harsh910-developer/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harsh910-developer/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh910-developer/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
