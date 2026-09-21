@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/harsh910-developer/Leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/harsh910-developer/Leetcode/tree/master/1927-sum-game) |
@@ -440,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/harsh910-developer/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
