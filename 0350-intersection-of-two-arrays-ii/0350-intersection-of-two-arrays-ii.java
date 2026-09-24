@@ -1,16 +1,18 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int[] count = new int[1001];
+        int idx = 0;
         for(int num : nums1){
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            count[num]++;
         }
         List<Integer> l = new ArrayList<>();
         for(int num : nums2){
-            if(map.containsKey(num) && map.get(num) > 0){
+            if(count[num] > 0){
                 l.add(num);
-                map.put(num, map.get(num) - 1);
+                count[num]--;
             }
         }
+        
         int[] ans = new int[l.size()];
         for(int i=0; i<l.size(); i++){
             ans[i] = l.get(i);
