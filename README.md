@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harsh910-developer/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/harsh910-developer/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harsh910-developer/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harsh910-developer/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/harsh910-developer/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
 ## Queue
 |  |
 | ------- |
