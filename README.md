@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harsh910-developer/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/harsh910-developer/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harsh910-developer/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harsh910-developer/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harsh910-developer/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Rolling Hash
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0812-largest-triangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/harsh910-developer/Leetcode/tree/master/0994-rotting-oranges) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/harsh910-developer/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harsh910-developer/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2833-furthest-point-from-origin](https://github.com/harsh910-developer/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
