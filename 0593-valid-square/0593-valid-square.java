@@ -1,17 +1,21 @@
 class Solution {
     public boolean validSquare(int[] p1, int[] p2, int[] p3, int[] p4) {
-        Set<Integer> set = new HashSet();
+        Set<Integer> s = new HashSet();
+        int[][] set = {p1, p2, p3, p4};
 
-        set.add(distSqr(p1, p2));
-        set.add(distSqr(p1, p3));
-        set.add(distSqr(p1, p4));
-        set.add(distSqr(p2, p3));
-        set.add(distSqr(p2, p4));
-        set.add(distSqr(p3, p4));
+        for(int i=0; i<4; i++){
+            for(int j=i+1; j<4; j++){
+                if(Arrays.equals(set[i], set[j])){
+                    return false;
+                }
 
-        return !set.contains(0) && set.size() == 2;
-    }
-    private int distSqr(int[] a, int[] b){
-        return (a[0]-b[0])*(a[0]-b[0]) + (a[1]-b[1])*(a[1]-b[1]);
+                int dx = set[i][0] - set[j][0];
+                int dy = set[i][1] - set[j][1];
+
+                int dist = dx*dx + dy*dy;
+                s.add(dist);
+            }
+        }
+        return s.size() == 2;
     }
 }
