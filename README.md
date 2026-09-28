@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/harsh910-developer/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
+| [0506-relative-ranks](https://github.com/harsh910-developer/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0812-largest-triangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/harsh910-developer/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/harsh910-developer/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/harsh910-developer/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harsh910-developer/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0506-relative-ranks](https://github.com/harsh910-developer/Leetcode/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/harsh910-developer/Leetcode/tree/master/0743-network-delay-time) |
 ## Pigeonhole Principle
 |  |
