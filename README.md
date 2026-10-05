@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsh910-developer/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/harsh910-developer/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/harsh910-developer/Leetcode/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/harsh910-developer/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harsh910-developer/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/harsh910-developer/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/harsh910-developer/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harsh910-developer/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
