@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/harsh910-developer/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/harsh910-developer/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/harsh910-developer/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harsh910-developer/Leetcode/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harsh910-developer/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/harsh910-developer/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/harsh910-developer/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/harsh910-developer/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harsh910-developer/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/harsh910-developer/Leetcode/tree/master/0263-ugly-number) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/harsh910-developer/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/harsh910-developer/Leetcode/tree/master/0202-happy-number) |
 ## Shortest Path
 |  |
 | ------- |
