@@ -6,7 +6,9 @@ class Solution {
             if(map.containsKey(n) && i - map.get(n) <= k){
                 return true;
             }
-            map.put(nums[i], i);
+            else{
+                map.put(nums[i], i);
+            }
         }
         return false;
     }
