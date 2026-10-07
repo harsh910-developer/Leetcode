@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harsh910-developer/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2248-intersection-of-multiple-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/harsh910-developer/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harsh910-developer/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harsh910-developer/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2248-intersection-of-multiple-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harsh910-developer/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harsh910-developer/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/harsh910-developer/Leetcode/tree/master/2540-minimum-common-value) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harsh910-developer/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2248-intersection-of-multiple-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsh910-developer/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/harsh910-developer/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/harsh910-developer/Leetcode/tree/master/3731-find-missing-elements) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2248-intersection-of-multiple-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/harsh910-developer/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
