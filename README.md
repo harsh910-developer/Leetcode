@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harsh910-developer/Leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harsh910-developer/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/harsh910-developer/Leetcode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/harsh910-developer/Leetcode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/harsh910-developer/Leetcode/tree/master/1096-brace-expansion-ii) |
