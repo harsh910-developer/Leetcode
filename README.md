@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harsh910-developer/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harsh910-developer/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsh910-developer/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/harsh910-developer/Leetcode/tree/master/0036-valid-sudoku) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harsh910-developer/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/harsh910-developer/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harsh910-developer/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harsh910-developer/Leetcode/tree/master/0016-3sum-closest) |
