@@ -3,13 +3,9 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-
         HashMap<Character, Integer> map = new HashMap<>();
-        //HashMap<Character, Integer> map2 = new HashMap<>();
-
         for(char ch : s.toCharArray()){
             map.put(ch, map.getOrDefault(ch, 0) + 1);
-            //map2.put(t.charAt(i), map.getorDefault(t.charAt(i), 0) + 1);
         }
         for(char ch : t.toCharArray()){
             if(!map.containsKey(ch) || map.get(ch) == 0){
