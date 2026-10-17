@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/harsh910-developer/Leetcode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harsh910-developer/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/harsh910-developer/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/harsh910-developer/Leetcode/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/harsh910-developer/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/harsh910-developer/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/harsh910-developer/Leetcode/tree/master/0493-reverse-pairs) |
+| [0500-keyboard-row](https://github.com/harsh910-developer/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/harsh910-developer/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0812-largest-triangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0812-largest-triangle-area) |
