@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0743-network-delay-time](https://github.com/harsh910-developer/Leetcode/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/harsh910-developer/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -697,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harsh910-developer/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
