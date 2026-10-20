@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/harsh910-developer/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/harsh910-developer/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/harsh910-developer/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/harsh910-developer/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/harsh910-developer/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/harsh910-developer/Leetcode/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0836-rectangle-overlap) |
