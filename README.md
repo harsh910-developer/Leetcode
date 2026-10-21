@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harsh910-developer/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/harsh910-developer/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/harsh910-developer/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/harsh910-developer/Leetcode/tree/master/0136-single-number) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/harsh910-developer/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0388-longest-absolute-file-path](https://github.com/harsh910-developer/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/harsh910-developer/Leetcode/tree/master/0636-exclusive-time-of-functions) |
@@ -718,6 +720,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harsh910-developer/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/harsh910-developer/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh910-developer/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harsh910-developer/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
