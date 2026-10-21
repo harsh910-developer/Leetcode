@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/harsh910-developer/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0636-exclusive-time-of-functions](https://github.com/harsh910-developer/Leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/harsh910-developer/Leetcode/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/harsh910-developer/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/harsh910-developer/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/harsh910-developer/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/harsh910-developer/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh910-developer/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -716,5 +718,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/harsh910-developer/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harsh910-developer/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
