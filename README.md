@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh910-developer/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/harsh910-developer/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harsh910-developer/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/harsh910-developer/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
