@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/harsh910-developer/Leetcode/tree/master/0389-find-the-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harsh910-developer/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/harsh910-developer/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/harsh910-developer/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harsh910-developer/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harsh910-developer/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/harsh910-developer/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/harsh910-developer/Leetcode/tree/master/3660-jump-game-ix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsh910-developer/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harsh910-developer/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
