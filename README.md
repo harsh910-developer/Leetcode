@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harsh910-developer/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/harsh910-developer/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0388-longest-absolute-file-path](https://github.com/harsh910-developer/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/harsh910-developer/Leetcode/tree/master/0636-exclusive-time-of-functions) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/harsh910-developer/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -795,4 +797,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/harsh910-developer/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/harsh910-developer/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
