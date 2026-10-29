@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/harsh910-developer/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/harsh910-developer/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/harsh910-developer/Leetcode/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/harsh910-developer/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/harsh910-developer/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/harsh910-developer/Leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/harsh910-developer/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/harsh910-developer/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/harsh910-developer/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harsh910-developer/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harsh910-developer/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/harsh910-developer/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/harsh910-developer/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harsh910-developer/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harsh910-developer/Leetcode/tree/master/0342-power-of-four) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harsh910-developer/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/harsh910-developer/Leetcode/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/harsh910-developer/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0388-longest-absolute-file-path](https://github.com/harsh910-developer/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
