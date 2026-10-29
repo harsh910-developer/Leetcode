@@ -10,36 +10,18 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        Stack<Integer> s1 = new Stack<>();
-        Stack<Integer> s2 = new Stack<>();
-
-        while(l1 != null){
-            s1.push(l1.val);
-            l1 = l1.next;
-        }
-
-        while(l2 != null){
-            s2.push(l2.val);
-            l2 = l2.next;
-        }
-
+        Deque<Integer> a = new ArrayDeque<>(), b = new ArrayDeque<>();
+        for(;l1 != null; l1 = l1.next) a.push(l1.val);
+        for(;l2 != null; l2 = l2.next) b.push(l2.val);
+        ListNode res = null;
         int carry = 0;
-        ListNode head = null;
-
-        while(!s1.isEmpty() || !s2.isEmpty() || carry != 0){
-            int sum = carry;
-            if(!s1.isEmpty()){
-                sum += s1.pop();
-            }
-            if(!s2.isEmpty()){
-                sum += s2.pop();
-            }
+        while(!a.isEmpty() || !b.isEmpty() || carry > 0){
+            int sum = carry + (a.isEmpty() ? 0 : a.pop()) + (b.isEmpty() ? 0 : b.pop());
+            ListNode newNode = new ListNode(sum%10);
+            newNode.next = res;
+            res = newNode;
             carry = sum / 10;
-
-            ListNode node = new ListNode(sum % 10);
-            node.next = head;
-            head = node;
         }
-        return head;
+        return res;
     }
 }
