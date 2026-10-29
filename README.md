@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/harsh910-developer/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harsh910-developer/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harsh910-developer/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/harsh910-developer/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harsh910-developer/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/harsh910-developer/Leetcode/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/harsh910-developer/Leetcode/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/harsh910-developer/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0388-longest-absolute-file-path](https://github.com/harsh910-developer/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/harsh910-developer/Leetcode/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/harsh910-developer/Leetcode/tree/master/0456-132-pattern) |
 | [0636-exclusive-time-of-functions](https://github.com/harsh910-developer/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/harsh910-developer/Leetcode/tree/master/0678-valid-parenthesis-string) |
