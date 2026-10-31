@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/harsh910-developer/Leetcode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harsh910-developer/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/harsh910-developer/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harsh910-developer/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harsh910-developer/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/harsh910-developer/Leetcode/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/harsh910-developer/Leetcode/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/harsh910-developer/Leetcode/tree/master/1046-last-stone-weight) |
