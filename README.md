@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/harsh910-developer/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harsh910-developer/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/harsh910-developer/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harsh910-developer/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2248-intersection-of-multiple-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harsh910-developer/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harsh910-developer/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/0647-palindromic-substrings) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harsh910-developer/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harsh910-developer/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/harsh910-developer/Leetcode/tree/master/2540-minimum-common-value) |
 ## Manacher
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0415-add-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harsh910-developer/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/harsh910-developer/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harsh910-developer/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/harsh910-developer/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
