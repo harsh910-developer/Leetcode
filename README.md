@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/harsh910-developer/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsh910-developer/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/harsh910-developer/Leetcode/tree/master/0049-group-anagrams) |
@@ -155,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/harsh910-developer/Leetcode/tree/master/1044-longest-duplicate-substring) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/harsh910-developer/Leetcode/tree/master/1044-longest-duplicate-substring) |
 ## Linked List
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harsh910-developer/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harsh910-developer/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/harsh910-developer/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/harsh910-developer/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/harsh910-developer/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -770,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/harsh910-developer/Leetcode/tree/master/0796-rotate-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -843,4 +848,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harsh910-developer/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
