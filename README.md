@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/harsh910-developer/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/harsh910-developer/Leetcode/tree/master/0301-remove-invalid-parentheses) |
