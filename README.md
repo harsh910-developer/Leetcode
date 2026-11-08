@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/harsh910-developer/Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/harsh910-developer/Leetcode/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/harsh910-developer/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harsh910-developer/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/harsh910-developer/Leetcode/tree/master/1306-jump-game-iii) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/harsh910-developer/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/harsh910-developer/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/harsh910-developer/Leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/harsh910-developer/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harsh910-developer/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harsh910-developer/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/harsh910-developer/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh910-developer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh910-developer/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/harsh910-developer/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2248-intersection-of-multiple-arrays](https://github.com/harsh910-developer/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/harsh910-developer/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/harsh910-developer/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0743-network-delay-time](https://github.com/harsh910-developer/Leetcode/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/harsh910-developer/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harsh910-developer/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/harsh910-developer/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/harsh910-developer/Leetcode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/harsh910-developer/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/harsh910-developer/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harsh910-developer/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/harsh910-developer/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -792,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/harsh910-developer/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harsh910-developer/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harsh910-developer/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harsh910-developer/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
