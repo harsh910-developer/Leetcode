@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/harsh910-developer/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/harsh910-developer/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/harsh910-developer/Leetcode/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/harsh910-developer/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/harsh910-developer/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/harsh910-developer/Leetcode/tree/master/0078-subsets) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/harsh910-developer/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harsh910-developer/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/harsh910-developer/Leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/harsh910-developer/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/harsh910-developer/Leetcode/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/harsh910-developer/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/harsh910-developer/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/harsh910-developer/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/harsh910-developer/Leetcode/tree/master/0415-add-strings) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harsh910-developer/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
