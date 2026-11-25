@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsh910-developer/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harsh910-developer/Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harsh910-developer/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3934-smallest-unique-subarray](https://github.com/harsh910-developer/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/harsh910-developer/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -167,12 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/harsh910-developer/Leetcode/tree/master/1044-longest-duplicate-substring) |
+| [3934-smallest-unique-subarray](https://github.com/harsh910-developer/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/harsh910-developer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/harsh910-developer/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/harsh910-developer/Leetcode/tree/master/1044-longest-duplicate-substring) |
+| [3934-smallest-unique-subarray](https://github.com/harsh910-developer/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh910-developer/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/harsh910-developer/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harsh910-developer/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/harsh910-developer/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/harsh910-developer/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/harsh910-developer/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/harsh910-developer/Leetcode/tree/master/2540-minimum-common-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsh910-developer/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/harsh910-developer/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -923,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/harsh910-developer/Leetcode/tree/master/1044-longest-duplicate-substring) |
+| [3934-smallest-unique-subarray](https://github.com/harsh910-developer/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Automaton
 |  |
 | ------- |
